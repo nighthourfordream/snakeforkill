@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gt0SAu1Hy2+AUFpaXyddY5FFCe1ZDpdPe653exsCXIQXAb4u2+XjI1z+/mdt/aP0759+OhMxRq0LJnIrxc+0fQ==",
+  "success": true,
+  "projectFilePath": "E:\\SnakeDumb\\Snakeit\\Snakeit\\Snakeit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\чи шо\\.nuget\\packages\\wmplib\\1.0.0\\wmplib.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Пакет \"WMPLib 1.0.0\" был восстановлен с помощью \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\", а не целевой платформы проекта \".NETCoreApp,Version=v3.1\". Этот пакет может быть не полностью совместим с вашим проектом.",
+      "libraryId": "WMPLib",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

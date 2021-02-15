@@ -1,0 +1,39 @@
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.csprojAssemblyReference.cache
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.AssemblyInfoInputs.cache
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.AssemblyInfo.cs
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.csproj.CoreCompileInputs.cache
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.exe
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.deps.json
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.runtimeconfig.json
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.runtimeconfig.dev.json
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.dll
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.pdb
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.dll
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.pdb
+C:\Users\чи шо\Documents\study\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.genruntimeconfig.cache
+D:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.csprojAssemblyReference.cache
+D:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.AssemblyInfoInputs.cache
+D:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.AssemblyInfo.cs
+D:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.csproj.CoreCompileInputs.cache
+D:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.dll
+D:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.pdb
+D:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.exe
+D:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.deps.json
+D:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.runtimeconfig.json
+D:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.runtimeconfig.dev.json
+D:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.dll
+D:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.pdb
+D:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.genruntimeconfig.cache
+E:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.csprojAssemblyReference.cache
+E:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.AssemblyInfoInputs.cache
+E:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.AssemblyInfo.cs
+E:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.csproj.CoreCompileInputs.cache
+E:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.dll
+E:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.pdb
+E:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.exe
+E:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.deps.json
+E:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.runtimeconfig.json
+E:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.runtimeconfig.dev.json
+E:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.dll
+E:\SnakeDumb\Snakeit\Snakeit\bin\Debug\netcoreapp3.1\Snakeit.pdb
+E:\SnakeDumb\Snakeit\Snakeit\obj\Debug\netcoreapp3.1\Snakeit.genruntimeconfig.cache
